@@ -1,6 +1,6 @@
 # :wave: The Basics of Git and GitHub 
 
-The Tortoise and the Hare
+###The Tortoise and the Hare
 
 There once was a speedy hare who bragged about how fast he could run. Tired of hearing him boast, Slow and Steady, the tortoise, challenged him to a race. All the animals in the forest gathered to watch.
 
